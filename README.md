@@ -1,4 +1,4 @@
 Source codes of paper:
-"Joint Spatio-Temporal Trajectory Generation Modeling via Image-Based Representation"
+"JST-Traj: a Joint Spatio-Temporal Representation for Trajectory Generation"
 There are FIVE folders in total:
 Data
